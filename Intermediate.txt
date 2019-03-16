@@ -1,0 +1,17 @@
+B==>
+  Sugical
+  Medicine
+  Cart
+  //buying- subtract by one
+  //only deletes multiple
+  //label does not work
+  
+A==>
+Seller:
+  
+  sellerSignup d0 --> email
+  
+Admin:
+  AdminSendEmail 
+  ..approach: get file, not there? rename the one given,upload
+  ..refuse: try rename,create, manual renaming in downloads

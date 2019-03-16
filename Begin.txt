@@ -1,0 +1,17 @@
+3==>
+Buyer:
+    d0BS1.cart 
+	remove_button to remove items from cart
+	add and display** --> Ian
+    d0DS2.Receipt and thanks**
+	cart-> confirm_payment-> generate receipt class -> home
+Seller:
+  SellerItem d2 --> Ian
+
+1==>
+GenerateReceipt
+ConfirmPaymentController
+To do:
+generate receipt --> Felix
+sign in button --> Felix
+<==2

@@ -1,0 +1,20 @@
+Buyer:
+  Signup [database]
+  initialEditProfiler [database]
+  SignIn
+  buyerproduct
+  HomePage
+  contactUs
+  buyerObject
+Seller:
+  sellerSignIn d0
+  SellerObject 
+  SellerUpdatePass d2
+  SellerAdd d1
+  sellerDelete d1
+  sellerUpdate d1
+Admin:
+  AboutUs d0
+  AdminLogin
+  AdminHome d1
+  AdminRejection* 
